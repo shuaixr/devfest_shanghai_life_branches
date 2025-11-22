@@ -1,0 +1,7 @@
+{
+  "name": "Shanghai Life-Branches",
+  "description": "Generate parallel life portraits in 1930s, 2025, and 2050 Shanghai using Gemini Nano Banana.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
